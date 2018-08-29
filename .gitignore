@@ -1,2 +1,4 @@
 functions/node_modules
 functions/lib
+npm-debug.log
+firebase-debug.log
